@@ -1,7 +1,32 @@
---------------Crzy Slack bot------------
-The bot is live 24/7 and works on all channels. It can respond to commands. To interact with the bot, simply type a command in any channel where the bot is present.
-The following commands are available for now:
-1./crzyslack-ping (Provides the status of the bot)
-2./crzyslack-joke (Tells you a joke)
-3./crzyslack-help (Lists you all the commands)
-4./crzyslack-catfact (Gives you a cat fact)
+# ⚡ Crzy Slack Bot
+
+> A Slack bot running 24/7 which don't slack off even I am slacking off.
+
+---
+
+## 🚀 About the Bot
+
+**Crzy Slack Bot** is live **24/7** and active in all channels where invited. It listens and responds directly to slash commands, making it quick and easy to check status, grab a quick laugh, or learn something new.
+
+---
+
+## 💬 Available Commands
+
+Type any of the following slash commands into a channel where the bot is present:
+
+| Command | Description |
+| :--- | :--- |
+| `/crzyslack-ping` | Checks bot uptime and latency / status |
+| `/crzyslack-joke` | Tells a random, clean joke |
+| `/crzyslack-catfact` | Fetches an interesting random cat fact |
+| `/crzyslack-help` | Displays the help menu with all available commands |
+
+---
+
+## ⚙️ Getting Started & Hosting
+
+### 1. Clone the Repository
+
+```bash
+git clone [https://github.com/ByteCyro/Crzyslack.git](https://github.com/ByteCyro/Crzyslack.git)
+cd Crzyslack
