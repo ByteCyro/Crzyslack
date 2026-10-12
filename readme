@@ -1,0 +1,7 @@
+--------------Crzy Slack bot------------
+The bot is live 24/7 and works on all channels. It can respond to commands. To interact with the bot, simply type a command in any channel where the bot is present.
+The following commands are available for now:
+1./crzyslack-ping (Provides the status of the bot)
+2./crzyslack-joke (Tells you a joke)
+3./crzyslack-help (Lists you all the commands)
+4./crzyslack-catfact (Gives you a cat fact)
