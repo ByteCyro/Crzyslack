@@ -21,6 +21,8 @@ app.command("/crzyslack-help", async ({ ack, respond }) => {
     text:
 `Available Commands:
 /crzyslack-ping - Check bot latency
+/crzyslack-joke - Hahahah
+/crzyslack-help - Gets all commands
 /crzyslack-catfact - Get a cat fact`
   });
 });
